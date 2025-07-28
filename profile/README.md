@@ -1,4 +1,4 @@
-## Hi there 👋
+# Solar Book Shop ☀️
 
 <!--
 
